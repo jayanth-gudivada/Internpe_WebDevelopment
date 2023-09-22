@@ -12,5 +12,8 @@ link to access : https://jayanth-gudivada.github.io/Internpe_WebDevelopment/Spot
 
 
 # Week 3: TO-DO LIST APP  With the help of HTML CSS JS
-link to access : 
+link to access : https://jayanth-gudivada.github.io/Internpe_WebDevelopment/ToDoList/
 
+
+# Week 4: CONNECT FOUR  GAME With the help of WEB DEVELOPMENT
+link to access : https://jayanth-gudivada.github.io/Internpe_WebDevelopment/Connect_Four_Game/
